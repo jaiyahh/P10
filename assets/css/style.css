@@ -12,6 +12,12 @@ img {
 	height: 50%;
 	Width: 50%;
 }
+.insta {
+	height: 10%;
+	width: 10%;
+	padding-left:
+	display:inline-block
+}
 .boardslide {
 	
 }
@@ -19,7 +25,7 @@ img {
 	height: 30%;
 	width: 30%;
 	padding-right: 100px;
-	padding-left: 200px
+	padding-left: 100px
 	
 }
 
@@ -105,8 +111,9 @@ input  {
 	width: 20%;
 	height:100px;
 	border: 2px solid indianred;
+}
+.input {
 	
-		
 }
 input[type="text"] {
     font-size:50px;
@@ -117,4 +124,9 @@ textarea{
 	border-color: indianred;
 	margin-bottom:100px;
 	font-size: 50px
+}
+.cm {
+	width: 1000px;
+	display:inline-block;
+	
 }
