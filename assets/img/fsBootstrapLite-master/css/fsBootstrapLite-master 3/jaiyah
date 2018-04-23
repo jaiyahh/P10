@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jaiyah Haywood Braithwaite</title>
+
+	<!--Required metatag and stylesheet-->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<!--Custom styles here-->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<!--Your HTML here-->
+	<h1 style=text-align:center>Jaiyah Haywood Braithwaite</h1>
+	<h2 style="color:666600; background-color:bisque" About me/Experience Resume/Contact h2>
+	<h3 style="color:994C00; background-color:antiquewhite FF9933" About me h3>
+	<h4 style="color:994C00; background-color:FF9933"Experience h4>
+	<h5 style="color:990000; background-color:" Resume h5>
+	<h6 style="color:000000; background-color:bisque" h6>
+	<p>I am Jaiyah Nakayla Alexis Haywood Braithwaite. My birthday is December 20.(sagittarius) I have 6 siblings, ages between 8months-18yrs old. I attend Kingsborough Community College....</p>
+	<p>I attended a program called CORO to help build my leadership and communication skills. While i was there i created a safe hallway event which was a public statement against violence which included local and city-wide politicians, NYPD, and the student body. I have over 400 hours of community service. I've helped people in Far Rockaway after Hurricane Sandy hit, volunteered in soup kitchens for the holidays, painted my high school bathrooms, tutored struggling students in Sunset Elementary school and...etc I worked as an inventory associate at a compay caled WIS International.</p>
+		<img src="https://i.pinimg.com/originals/34/cd/82/34cd82b2e98f8477bdd794d41f973621.jpg">
+	
+<form 
+First name: <input type="text" name="FirstName" value="name"><br>
+Last name: <input type="text" name="email" value="email"><br>
+<input type="submit" value="Submit">
+</form>
+	<textarea>"message"</textarea>
+	<input type="submit" value="submit"
+		   
+	<p><a href="reference.html">check out the reference material.</a></p>
+
+	<!--Required scripts-->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+	<!--Custom script here-->
+	<script></script>
+</body>
+
+</html>
